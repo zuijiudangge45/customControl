@@ -3,7 +3,7 @@
     "windows": {
       "open-url": "",
       "latest-version": "1.0",
-      "download-url": "https://github.com/zuijiudangge45/customControl/blob/main/test.gif",
+      "download-url": "https://raw.githubusercontent.com/zuijiudangge45/customControl/main/test.gif",
       "changelog": "This is an example changelog for Windows. Go on...",
       "mandatory": true
     },
