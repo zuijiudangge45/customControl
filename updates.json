@@ -3,7 +3,7 @@
     "windows": {
       "open-url": "",
       "latest-version": "1.0",
-      "download-url": "http://codown.youdao.com/cidian/YoudaoDict_webdict_default.exe",
+      "download-url": "http://192.168.2.198:8848/test/main.cpp",
       "changelog": "This is an example changelog for Windows. Go on...",
       "mandatory": true
     },
